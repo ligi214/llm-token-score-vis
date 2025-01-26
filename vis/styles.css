@@ -1,0 +1,13 @@
+.token {
+    display: inline-block;
+    color: #404040;
+    box-sizing: content-box;
+    padding: 2px 0px;
+    text-shadow: 0px 0px 2px #ffffff;
+    font-size: 0.9em;
+    height: 1em;
+}
+
+.left-space-token {
+    padding: 2px 0 2px 2px;
+}
